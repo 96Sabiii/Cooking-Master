@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kategory_array">
+      <item>Frühstück</item>
+      <item>Mittagessen</item>
+      <item>Abendessen</item>
+   </string-array>
+    <color name="aqua">#00FFFF</color>
+    <color name="black">#000000</color>
+    <color name="button_color">#b1b1b1</color>
+    <color name="darkgrey">#282828</color>
+    <color name="green">#008000</color>
+    <color name="lightgrey">#707070</color>
+    <color name="lime">#00FF00</color>
+    <color name="main_color">@color/yellowgreen</color>
+    <color name="olive">#808000</color>
+    <color name="teal">#008080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellowgreen">#9acd32</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="recept_img" type="id"/>
+    <string name="addPictureTitle">Füge ein Foto hinzu!</string>
+    <string name="add_button">+</string>
+    <string name="add_image_button">Bild hinzufügen</string>
+    <string name="add_text">Deine Rezepte:</string>
+    <string name="app_label"/>
+    <string name="app_name">CookingMaster</string>
+    <string name="back_button">Zurück</string>
+    <string name="cameraCanceltToast">Die Aktion wurde abgebrochen</string>
+    <string name="cancle">Abbrechen</string>
+    <string name="chooseFromGallery">Aus der Galerie auswählen</string>
+    <string name="deleteReceptMsg">Bist du dir sicher, dass du dieses Rezept löschen willst?</string>
+    <string name="deleteReceptTitle">Rezept löschen</string>
+    <string name="directions">Zubereitung</string>
+    <string name="directions_hint">Gib die Zubereitungsschritte ein</string>
+    <string name="edit_button">Edit</string>
+    <string name="exit">Nochmaliges Tippen beendet die App</string>
+    <string name="failedToast">Oh, da ist etwas schief gelaufen</string>
+    <string name="ingredients">Zutaten</string>
+    <string name="ingredients_hint">Gib die Zutaten ein</string>
+    <string name="kategory">Kategorie</string>
+    <string name="new_object">Dein neues Rezept:</string>
+    <string name="new_recept">Neues Rezept hinzufügen</string>
+    <string name="no">NEIN</string>
+    <string name="noCamera">Dein Gerät besitzt leider keine Kamera</string>
+    <string name="noEntryToast">Du hast nicht alles angegeben!</string>
+    <string name="randomReceptMsg">"Willst du ein zufälliges Rezept angezeigt bekommen?"</string>
+    <string name="randomReceptTitle">Zufällige Rezeptausgabe</string>
+    <string name="recept_name">Name des Rezepts</string>
+    <string name="recept_name_hint">Gib den Rezeptnamen ein</string>
+    <string name="save">Speichern</string>
+    <string name="search_hint"/>
+    <string name="splash_text">Willkommen bei</string>
+    <string name="takePicture">Foto aufnehmen</string>
+    <string name="yes">JA</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+
+   </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+      <item name="android:actionBarSize">60dp</item>
+      <item name="android:actionBarStyle">@style/MyActionBarTheme</item>
+   </style>
+    <style name="Divider">
+      <item name="android:layout_width">match_parent</item>
+      <item name="android:layout_height">1dp</item>
+      <item name="android:background">#d1d1d1</item>
+   </style>
+    <style name="MyActionBarTheme" parent="@android:style/Widget.Holo.Light.ActionBar">
+      <item name="android:background">@color/main_color</item>
+      <item name="android:titleTextStyle">@style/TitleTextStyle</item>
+   </style>
+    <style name="TitleTextStyle" parent="@android:style/Widget.TextView">
+      <item name="android:textSize">25sp</item>
+      <item name="android:textColor">@color/white</item>
+   </style>
+</resources>

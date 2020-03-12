@@ -1,0 +1,44 @@
+
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/card_view"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/customshape">
+
+    <ImageView
+        android:id="@+id/receptImage"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/turkey"/>
+
+    <TextView
+        android:id="@+id/receptName"
+        android:textColor="@color/main_color"
+        android:layout_below="@+id/receptImage"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.15"
+        android:paddingRight="5dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/kategory"
+        android:textColor="@color/lightgrey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/receptName"
+        android:layout_weight="0.4"
+        android:layout_marginTop="10dp"/>
+
+</RelativeLayout>
+
+

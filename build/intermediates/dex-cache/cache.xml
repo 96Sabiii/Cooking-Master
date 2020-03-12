@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sabrina Hartl\.android\build-cache\72ebb707ce1ebe516e7649303732280a24384d34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Sabrina Hartl\Desktop\cooking master\CookingMaster2\app\build\intermediates\pre-dexed\debug\classes_3cfae9e61fd141dd8936765909430b05fe2914ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sabrina Hartl\.android\build-cache\72ebb707ce1ebe516e7649303732280a24384d34\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Sabrina Hartl\Desktop\cooking master\CookingMaster2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_a5fecea9cf6ac2f5fd809ef25a68ba2035af89dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sabrina Hartl\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Sabrina Hartl\Desktop\cooking master\CookingMaster2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_f727995f993fa5d6a568acc338b031e49fce0535.jar" />
+    </item>
+
+</items>

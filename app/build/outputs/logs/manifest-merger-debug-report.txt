@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:3:11-56
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:6:4-64
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:6:21-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:7:4-80
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:7:21-77
+uses-feature#android.hardware.camera
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:8:4-59
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:8:18-56
+application
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:9:4-37:18
+	android:label
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:10:7-33
+	android:theme
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:13:7-38
+activity#de.ur.mi.android.excercises.starter.SplashScreen.SplashScreen
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:14:7-21:18
+	android:label
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:16:10-42
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:15:10-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:17:10-20:26
+action#android.intent.action.MAIN
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:18:13-64
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:18:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:19:23-70
+activity#de.ur.mi.android.excercises.starter.ListPage
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:22:8-28:18
+	android:label
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:24:12-42
+	android:configChanges
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:25:12-73
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:23:12-36
+meta-data#android.app.searchable
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:26:12-27:52
+	android:resource
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:27:16-50
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:26:23-60
+activity#de.ur.mi.android.excercises.starter.AddObject
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:29:7-32:18
+	android:label
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:31:11-39
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:30:11-36
+activity#de.ur.mi.android.excercises.starter.OpenObject
+ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:33:7-36:18
+	android:label
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:35:11-38
+	android:name
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml:34:11-37
+uses-sdk
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Documents\GitHub\CookingMaster\app\src\main\AndroidManifest.xml

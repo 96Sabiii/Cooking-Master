@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/back_button"
+        android:icon="@drawable/ic_back_button_white"
+        android:orderInCategory="0"
+        android:title=""
+        android:showAsAction="always|collapseActionView"/>
+
+
+</menu>

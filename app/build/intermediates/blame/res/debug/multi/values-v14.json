@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "C:\\Users\\Sabrina Hartl\\Desktop\\CookingMaster\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 11,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "C:\\Users\\Sabrina Hartl\\Desktop\\CookingMaster\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 3,
+                        "startOffset": 221,
+                        "endLine": 9,
+                        "endColumn": 11,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Sabrina Hartl\\Desktop\\cooking master\\CookingMaster2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 11,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "C:\\Users\\Sabrina Hartl\\Desktop\\cooking master\\CookingMaster2\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 3,
+                        "startOffset": 221,
+                        "endLine": 9,
+                        "endColumn": 11,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    }
+]

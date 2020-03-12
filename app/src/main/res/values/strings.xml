@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">CookingMaster</string>
+   <color name="button_color">#b1b1b1</color>
+   <color name="main_color">@color/yellowgreen</color>
+
+   <string name="add_button">+</string>
+   <string name="add_text">Deine Rezepte:</string>
+   <string name="new_recept">Neues Rezept hinzufügen</string>
+
+   <string name="new_object">Dein neues Rezept:</string>
+   <string name="back_button">Zurück</string>
+   <string name="add_image_button">Bild hinzufügen</string>
+   <string name="ingredients">Zutaten</string>
+   <string name="directions">Zubereitung</string>
+   <string name="recept_name">Name des Rezepts</string>
+   <string name="save">Speichern</string>
+
+   <string name="recept_name_hint">Gib den Rezeptnamen ein</string>
+   <string name="ingredients_hint">Gib die Zutaten ein</string>
+   <string name="directions_hint">Gib die Zubereitungsschritte ein</string>
+
+   <string name="edit_button">Edit</string>
+   <string name="splash_text">Willkommen bei</string>
+
+   <string name="kategory">Kategorie</string>
+
+   <string name="noEntryToast">Du hast nicht alles angegeben!</string>
+   <string name="cameraCanceltToast">Die Aktion wurde abgebrochen</string>
+   <string name="failedToast">Oh, da ist etwas schief gelaufen</string>
+   <string name="app_label" />
+   <string name="search_hint" />
+
+   <string-array name="kategory_array">
+      <item>Frühstück</item>
+      <item>Mittagessen</item>
+      <item>Abendessen</item>
+   </string-array>
+
+   <string name="deleteReceptTitle">Rezept löschen</string>
+   <string name="deleteReceptMsg">Bist du dir sicher, dass du dieses Rezept löschen willst?</string>
+   <string name="yes">JA</string>
+   <string name="no">NEIN</string>
+
+   <string name="addPictureTitle">Füge ein Foto hinzu!</string>
+
+    <string name="randomReceptTitle">Zufällige Rezeptausgabe</string>
+    <string name="randomReceptMsg">"Willst du ein zufälliges Rezept angezeigt bekommen?"</string>
+
+   <string name="takePicture">Foto aufnehmen</string>
+   <string name="chooseFromGallery">Aus der Galerie auswählen</string>
+   <string name="cancle">Abbrechen</string>
+
+   <string name="noCamera">Dein Gerät besitzt leider keine Kamera</string>
+
+   <string name="exit">Nochmaliges Tippen beendet die App</string>
+
+
+</resources>

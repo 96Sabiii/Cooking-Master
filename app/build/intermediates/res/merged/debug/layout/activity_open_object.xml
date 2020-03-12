@@ -1,0 +1,101 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="16dp"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+
+        <ImageView
+            android:id="@id/recept_img"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/turkey"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:id="@+id/receptNameText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:layout_marginBottom="30dp"
+            android:layout_below="@id/recept_img"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/main_color"/>
+
+        <TextView
+            android:id="@+id/kategoryText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginBottom="30dp"
+            android:layout_below="@id/receptNameText"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/lightgrey"/>
+
+        <TextView
+            android:id="@+id/ingredientsHead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="@string/ingredients"
+            android:layout_marginBottom="5dp"
+            android:layout_below="@id/kategoryText"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/darkgrey"/>
+
+        <TextView
+            android:id="@+id/ingredientsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_below="@+id/ingredientsHead"
+            android:layout_marginBottom="20dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/lightgrey"/>
+
+        <TextView
+            android:id="@+id/directionsHead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_below="@id/ingredientsText"
+            android:text="@string/directions"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/darkgrey"/>
+
+        <TextView
+            android:id="@+id/directionsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_below="@+id/directionsHead"
+            android:layout_marginBottom="20dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/lightgrey"/>
+
+        <Button
+            android:id="@+id/editButton"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/ic_edit_button"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"/>
+
+
+    </RelativeLayout>
+
+</ScrollView>
